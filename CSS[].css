@@ -1,0 +1,131 @@
+#GenerateButton {
+	width: 200 px;
+	height: 50 px;
+	background-color: white;
+	border-width: 5px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 5px;
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+	
+}
+#name{
+	text-shadow:1px 1px 3px rgba(0,0,0,1);
+	font-weight:normal;
+	color:#1900FF;
+	letter-spacing:1pt;
+	word-spacing:2pt;
+	font-size:70px;
+	text-align:center;
+	font-family:impact, sans-serif;
+	line-height:1;
+	
+	position: absolute;
+	left : 370px;
+	top:65px;
+	z-index:1;
+}
+#container {
+
+	text-shadow:1px 1px 3px rgba(0,0,0,1);
+	font-weight:normal;
+	color:#1900FF;
+	letter-spacing:1.6pt;
+	word-spacing:2pt;
+	font-size:51px;
+	text-align:left;
+	font-family:impact, sans-serif;
+	line-height:1.68;
+
+	position: absolute;
+	left : 330px;
+	top:415px;
+	z-index:1;
+	
+}
+#back {
+	position:absolute;
+	left:200px;
+	z-index:-4;
+}
+
+
+#goncon > img {
+	position :absolute;
+	top:20px;
+	left:20px;
+	z-index:1;
+}
+#load {
+	text-shadow:1px 1px 3px rgba(0,0,0,1);
+	font-weight:normal;
+	color:#1900FF;
+	letter-spacing:1pt;
+	word-spacing:2pt;
+	font-size:200px;
+	text-align:center;
+	font-family:impact, sans-serif;
+	line-height:1;
+	
+	position: absolute;
+	left : 0px;
+	top:0px;
+	z-index:12;
+}
+
+
+		#firePistol{ position :absolute;
+	top:185px;
+	left:420px;
+	z-index:1; }
+		#electricPistol{ position :absolute;
+	top:185px;
+	left:420px;
+	z-index:1; }
+		#waterPistol{ position :absolute;
+	top:185px;
+	left:420px;
+	z-index:1; }
+		#naturePistol{ position :absolute;
+	top:185px;
+	left:420px;
+	z-index:1; }
+		#fireAssult{ position :absolute;
+	top:185px;
+	left:400px;
+	z-index:1; }
+		#electricAssult{ position :absolute;
+	top:185px;
+	left:400px;
+	z-index:1; }
+		#waterAssult{ position :absolute;
+	top:185px;
+	left:400px;
+	z-index:1; }
+		#natureAssult{ position :absolute;
+	top:185px;
+	left:380px;
+	z-index:1; }
+		#electricSniper{ position :absolute;
+	top:185px;
+	left:380px;
+	z-index:1; }
+		#waterSniper{ position :absolute;
+	top:185px;
+	left:380px;
+	z-index:1; }
+		#natureSniper{ position :absolute;
+	top:185px;
+	left:380px;
+	z-index:1; }
+
+
+
+
+
+
+
+
+
