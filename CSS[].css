@@ -106,24 +106,24 @@
 	z-index:1; }
 		#natureAssult{ position :absolute;
 	top:185px;
-	left:370px;
+	left:380px;
+	z-index:1; }
+	#fireSniper{ position :absolute;
+	top:185px;
+	left:375px;
 	z-index:1; }
 		#electricSniper{ position :absolute;
 	top:185px;
-	left:370px;
+	left:375px;
 	z-index:1; }
 		#waterSniper{ position :absolute;
 	top:185px;
-	left:370px;
+	left:375px;
 	z-index:1; }
 		#natureSniper{ position :absolute;
 	top:185px;
-	left:370px;
+	left:375px;
 	z-index:1; }
-
-
-
-
 
 
 
